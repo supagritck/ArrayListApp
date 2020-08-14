@@ -1,0 +1,15 @@
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.exe.config
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\bin\Debug\Arraylistapp.pdb
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csprojAssemblyReference.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\MainWindow.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\App.g.cs
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp_MarkupCompile.lref
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\MainWindow.baml
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.g.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.Properties.Resources.resources
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csproj.GenerateResource.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.csproj.CoreCompileInputs.cache
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.exe
+C:\Users\Supagrit Ninkaesorn\source\repos\Arraylistapp\Arraylistapp\obj\Debug\Arraylistapp.pdb
